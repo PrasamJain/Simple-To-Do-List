@@ -4,7 +4,7 @@ Develop a simple web-based To-Do List application that allows users to create, u
 ## Requirements
 1. User Interface - Create a clean and simple UI using HTML, CSS, and JavaScript (or a front-end framework like React.js).
 
-### Include the following elements:
+Include the following elements:
 * Input field for entering new tasks.
 * Button to add the task. List display area for showing tasks.
 * Each task should have a checkbox to mark it as complete, an edit button, and a delete  button.
